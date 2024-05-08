@@ -9,7 +9,7 @@
 ## Language and tools 🛠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,react,nextjs,javascript,typescript,tailwind,bootstrap,css,cypress,express,figma,graphql,mongodb,mysql,npm,ps,postgres,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,nextjs,javascript,typescript,tailwind,express,mongodb,mysql,postgres,postman,wordpress" />
   </a>
 </p>
 
